@@ -2,7 +2,7 @@
 
 ## 1주차 과제 (2020.05.21)
 
-- [인공지능 사례 분석 ](https://github.com/jikerbug/Artificial_Intelligence/blob/master/Pre%20Week%201.ipynb)
+- [인공지능 사례 분석 ](https://github.com/jikerbug/Artificial_Intelligence/blob/master/Pre-Week%201.ipynb)
 
 ## 2주차 과제 (2020.05.28)
 
