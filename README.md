@@ -6,7 +6,7 @@
 
 ## 2주차 과제 (2020.05.28)
 
-- [파이썬과 인공지능 기초수학](https://github.com/jikerbug/Artificial_Intelligence/blob/master/Pre-Week%201.ipynb)
+- [파이썬과 인공지능 기초수학](https://github.com/jikerbug/Artificial_Intelligence/blob/master/Pre-Week%202.ipynb)
 
 ## 3주차 과제 (2020.06.04)
 - [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/jikerbug/Artificial_Intelligence/blob/master/Pre-Week3.ipynb)
